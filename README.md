@@ -12,9 +12,6 @@ Neste projeto foram utilizados os seguintes hooks personalizados do React
 - styled-components
 <hr>
 
-## Deploy da aplicação
-[Link da aplicação](https://relaxed-pare-762e84.netlify.app)
-
 ## Como rodar o projeto em sua máquina
 - Clone este repositório.
 - Utilize o comando `npm i` para instalar as dependências do projeto.
